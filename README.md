@@ -1,5 +1,5 @@
-### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Diphylleia&size=30&pause=1000&color=AD87F7&random=false&width=435&lines=%EC%8F%AD%EB%94%94%EB%8B%88%EC%9D%98+%EA%B9%83%ED%97%99)](https://git.io/typing-svg)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songdini)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **songdini/songdini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
